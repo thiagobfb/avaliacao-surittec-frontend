@@ -31,7 +31,7 @@ class Auth extends Component {
                 <div className="login-box-body">
                     <p className="login-box-msg">Bem vindo!</p>
                     <form onSubmit={handleSubmit(v => this.onSubmit(v))}>
-                        <Field component={Input} type="input" name="login" placeholder="Nome" icon='user' />
+                        <Field component={Input} type="input" name="login" placeholder="Login" icon='user' />
                         <Field component={Input} type="password" name="senha" placeholder="Senha" icon='lock' />
                         <Row>
                             <Grid cols="4">

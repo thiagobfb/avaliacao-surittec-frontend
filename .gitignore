@@ -1,2 +1,4 @@
 node_modules
 *.log
+/avaliacao-surittec-frontend.iml
+/.idea/
