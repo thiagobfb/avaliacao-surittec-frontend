@@ -26,7 +26,7 @@
     "font-awesome": "4.7.0",
     "ionicons": "5.1.2",
     "keymirror": "^0.1.1",
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-modal": "^3.11.2",
